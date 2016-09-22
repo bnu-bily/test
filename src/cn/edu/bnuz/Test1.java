@@ -1,7 +1,10 @@
 package cn.edu.bnuz;
 
-public class Test {
+public class Test1 {
+
 	public static void main(String[] args) {
-		System.out.println("hell world!");
+		// TODO Auto-generated method stub
+
 	}
+
 }
